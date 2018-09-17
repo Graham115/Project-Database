@@ -1,0 +1,24 @@
+DataBase Design Project
+
+Tables
+
+Table to link nations to ships
+
+Nation 	
+(typeOfShips)
+
+CV
+(amountOfPlanes)
+
+BB
+(typeOfGun)
+(armourValue)
+
+Cruiser
+(typeOfGun)
+(torpedo)
+
+DD
+(torpedoRange)
+(detectablity)
+
